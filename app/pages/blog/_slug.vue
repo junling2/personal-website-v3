@@ -5,7 +5,6 @@
         {{ post.title }}
       </h1>
     </div>
-
     <div v-html="$md.render(post.content)" class="post__content markdown pt-4 md:pt-6 md:pb-24" />
   </article>
 </template>
