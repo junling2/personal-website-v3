@@ -4,11 +4,11 @@
       <a href="https://github.com/junling2">
         <svg
           baseProfile="tiny"
-          height="32px"
+          height="37px"
           fill="white"
           version="1.1"
           viewBox="0 0 24 24"
-          width="24px"
+          width="37px"
           xml:space="preserve"
           xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,6 +24,8 @@
           </g>
         </svg>
       </a>
+    </div>
+    <div class="container mx-auto pb-6 flex justify-center">
       <a href="https://www.linkedin.com/in/junling2/">
         <svg
           baseProfile="tiny"
@@ -31,7 +33,7 @@
           fill="white"
           version="1.1"
           viewBox="0 0 24 24"
-          width="24px"
+          width="32px"
           xml:space="preserve"
           xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -47,14 +49,16 @@
           </g>
         </svg>
       </a>
+      </div>
+      <div class="container mx-auto pb-6 flex justify-center">
       <a href="https://www.instagram.com/junlingqu/">
         <svg
           baseProfile="tiny"
-          height="32px"
+          height="37px"
           fill="white"
           version="1.1"
           viewBox="0 0 24 24"
-          width="24px"
+          width="37px"
           xml:space="preserve"
           xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink"

@@ -1,5 +1,5 @@
 {
     "title": "Projects",
     "seoDescription": "Personal Projects",
-    "content": "#Project1\n---\n###desc\n###techstack\n![image](/images/upload/project1.png)\n[link](https://github.com/junling2/BarDown)"
+    "content": "# BarDown\n---\n### E-commerce website for soccer products\n - *MongoDB* \n - *React* \n - *NodeJS* \n![image](/images/upload/bardown.png)\n[link](https://github.com/junling2/BarDown)# BenriExpress\n---\n### Demo food delivery mobile app\n - *React Native* \n - *Firebase* \n - *Android Emulator* \n![image](/images/upload/benri.png)\n[link](https://github.com/junling2/BenriExpress)"
 }
