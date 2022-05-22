@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
+  "title": "Home",
   "titleTemplate": "| Junling",
   "welcomeText": "# Hi, I'm Junling Qu\n\nI'm currently working as a Software Test Automation Specialist at **Fortinet**.\n\n\n\n\n\nFeel free to connect with me through email or social links.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Junling Qu Website",
   "seoMetaImage": ""
 }

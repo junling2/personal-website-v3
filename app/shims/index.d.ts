@@ -7,7 +7,7 @@ declare global {
 interface Post {
   title: string;
   slug?: string;
-  excerpt?: string;
+  difficulty?: string;
   content: string;
   publishedAt: string;
   featuredImage?: string;

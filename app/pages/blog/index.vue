@@ -11,16 +11,11 @@
       <div v-for="(post, index) in posts" :key="index" class="w-full md:w-1/2 my-4 md:px-4">
         <div class="post">
           <nuxt-link :to="`/blog/${post.slug}`">
-            <img
-              :alt="post.title"
-              class="w-full"
-              :src="post.featuredImage || 'https://source.unsplash.com/random/640x340'"
-            />
             <div class="p-6 bg-white">
               <h2 class="text-2xl mb-2">{{ post.title }}</h2>
 
               <p class="text-base font-light">
-                {{ post.excerpt }}
+                {{ post.difficulty }}
               </p>
 
               <h6 class="text-blue-600 mt-4 font-medium">Read more</h6>

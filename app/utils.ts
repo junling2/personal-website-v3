@@ -25,7 +25,7 @@ export async function getContent({ context, prefix }): Promise<{ slug: string; t
       slug,
       title: entry.title,
       ...(prefix === 'blog' && {
-        excerpt: createExcerpt({ text: entry.content }),
+        difficulty: entry.difficulty,
       }),
       featuredImage: entry.featuredImage,
     });
